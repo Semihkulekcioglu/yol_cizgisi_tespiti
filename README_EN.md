@@ -9,7 +9,8 @@
 This project is a Python application developed for detecting lane lines in video files.
 
 ## 📸 Screenshots / Ekran Görüntüleri
-
+<img width="640" height="640" alt="Output_4" src="https://github.com/user-attachments/assets/dbb120bc-fc5c-4aec-8cf0-6a9aa2ccc5b8" />
+<img width="640" height="640" alt="Output_5" src="https://github.com/user-attachments/assets/82daebcc-1397-4b90-a8fb-2645215fd2dc" />
 
 ---
 
@@ -58,7 +59,7 @@ The system processes video frames through several stages:
 ```
 
 ## Contributing
-We welcome contributions! Please feel free to:
+I welcome contributions! Please feel free to:
 - Open an issue for bugs or feature requests
 - Submit pull requests with improvements
 - Suggest enhancements or optimizations
@@ -74,4 +75,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 - OpenCV community for computer vision tools
 - NumPy for numerical computing capabilities
-- Contributors and testers of this project
