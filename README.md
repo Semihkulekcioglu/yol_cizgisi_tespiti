@@ -9,7 +9,8 @@
 Bu proje, video dosyalarında yol çizgilerini tespit etmek için geliştirilmiş bir Python uygulamasıdır.
 
 ## 📸 Ekran Görüntüleri / Screenshots
-
+<img width="640" height="640" alt="Output_4" src="https://github.com/user-attachments/assets/344c176c-1244-442a-88b0-1689dfa085b5" />
+<img width="640" height="640" alt="Output_5" src="https://github.com/user-attachments/assets/4250a180-c4cf-47e3-a64e-0353fec0c299" />
 
 ---
 
@@ -58,7 +59,7 @@ Sistem video karelerini birkaç aşamada işler:
 ```
 
 ## Katkıda Bulunma
-Katkılarınızı bekliyoruz! Lütfen:
+Katkılarınızı bekliyorum! Lütfen:
 - Hata bildirimi veya özellik istekleri için issue açın
 - İyileştirmeler için pull request gönderin
 - Geliştirme veya optimizasyon önerilerinde bulunun
@@ -74,4 +75,3 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 ## Teşekkürler
 - Bilgisayarlı görü araçları için OpenCV topluluğu
 - Sayısal hesaplama yetenekleri için NumPy
-- Bu projenin katkıda bulunanları ve test edenleri
